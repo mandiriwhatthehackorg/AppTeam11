@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">WTHMandiri</string>
+    <string name="username_hint">Identitas Pengguna</string>
+    <string name="password_hint">Kata Sandi</string>
+    <string name="login">Masuk</string>
+    <string name="onboarding">Buka Rekening Mandiri</string>
+    <string name="email">Email</string>
+    <string name="nik">NIK</string>
+    <string name="phone_number">Nomor HP</string>
+    <string name="tgl_lahir">Tanggal Lahir</string>
+    <string name="tahun">Tahun</string>
+    <string name="bulan">Bulan</string>
+    <string name="tanggal">Tanggal</string>
+    <string name="next_bt">Selanjutnya</string>
+    <string name="title_verif_otp">Masukkan OTP</string>
+    <string name="desc_verif_otp">Kami telah mengirimkan kode OTP ke email anda.</string>
+    <string name="resend_otp">KIRIM ULANG</string>
+    <string name="savingAccountList">Tipe Produk</string>
+    <string name="cardList">Tipe Kartu</string>
+    <string name="branchList">Nama Cabang</string>
+    <string name="motherName">Nama Ibu</string>
+    <string name="fotoKTPtitle">Ambil Foto KTP</string>
+    <string name="fotoKTPtitle_desc">Mohon siapkan KTP Anda bagi WNI dan Passport bagi WNA/Foreigner</string>
+
+    <string name="fotodirititle">Ambil Foto Diri</string>
+    <string name="fotodirititle_desc">Foto tampak depan wajah Anda</string>
+
+    <string name="fotosignaturetitle">Ambil Foto Tanda Tangan</string>
+    <string name="fotosignaturetitle_desc">Foto tanda tangan Anda di atas kertas</string>
+
+    <string name="vidcall_guide_title">Video Call</string>
+    <string name="vidcall_guide_desc_1">Sekarang Anda akan melakukan Video Call dengan Customer Service kami sekitar 5 menit dan sebutkan kode di bawah ini:</string>
+    <string name="vidcall_guide_code">ABCD3</string>
+    <string name="vidcall_guide_desc_2">Proses Video Call memerlukan koneksi internet, pastikan Anda terhubung dengan jaringan internet yang stabil.\n\n
+        Tekan tombol Video Call di bawah ini. Layanan tersedia setiap hari mulai pukul\n
+06:00 - 20:00 WIB</string>
+    <string name="complete_task">Selesai</string>
+    <string name="openCamera">Buka Kamera</string>
+    <string name="congrats">Selamat!</string>
+    <string name="createsuccess_detail">Rekening dan mobile banking\nMandiri Anda telah Aktif</string>
+
+</resources>
